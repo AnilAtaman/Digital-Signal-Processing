@@ -1,8 +1,5 @@
 
 %NAME: ANIL ATAMAN
-%STUDENT ID : 20198410
-%DSP COURSEWORK 2
-
 clc,clear,close all;
 set(0,'DefaultFigureWindowStyle','docked');     % docks the windows neatly
 
